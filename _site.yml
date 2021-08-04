@@ -1,7 +1,7 @@
 name: "."
-title: "iyo-distill"
+title: "Homepage"
 description: |
-  iyo-distill
+  Welcome to my website
 output_dir: "docs"
 navbar:
   right:
