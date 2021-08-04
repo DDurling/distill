@@ -1,18 +1,18 @@
 ---
-title: "This is the landing page!"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Daniel Durling"
+image: "dd.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/danieldurling/"
+  - label: Twitter
+    url: "https://twitter.com/_daniel_durling/"
+  - label: GitHub
+    url: "https://github.com/DDurling/"
+  - label: Email
+    url: "mailto:danieldurling@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+ 
+I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them to understand the world better. If you like those things too, please get it touch!

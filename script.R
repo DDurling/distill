@@ -8,3 +8,6 @@ postcards::create_postcard(template = "jolla", file = "about.Rmd")
 
 usethis::use_github_pages(branch = "main", path = "/docs")
 
+distill::create_post("welcome")
+
+distill::create_theme("iyo")

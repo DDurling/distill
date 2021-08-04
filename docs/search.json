@@ -1,20 +1,19 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "Daniel Durling",
+      "path": "blog.html",
+      "title": "Blog",
       "author": [],
-      "contents": "\r\n\r\n          \r\n          \r\n          Homepage\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Daniel Durling\r\n          \r\n          \r\n            \r\n              I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them to understand the world better. If you like those things too, please get it touch!\r\n            \r\n            \r\n              I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them to understand the world better. If you like those things too, please get it touch!\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-08-04T16:25:48+01:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-04T16:52:03+01:00"
     },
     {
       "path": "index.html",
-      "title": "This is the landing page!",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Daniel Durling",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-04T16:25:49+01:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          Homepage\r\n          \r\n          \r\n          Home\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Daniel Durling\r\n          \r\n          \r\n            \r\n              I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them to understand the world better. If you like those things too, please get it touch!\r\n            \r\n            \r\n              I am a data scientist working at the Bank of England. I enjoying building pipelines and products that help people save time on repetitive tasks and to enable them to understand the world better. If you like those things too, please get it touch!\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-08-04T16:52:03+01:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
